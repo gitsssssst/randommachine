@@ -1,0 +1,93 @@
+{ "partijen": [
+		{
+			"naam": "D66",
+			"kandidaten" : {
+				"naam": "Sabine Andeweg"
+			}
+		},
+		{
+			"naam": "SP",
+			"kandidaten" : {
+				"naam": "Gerrie Elfrink"
+			}
+		},
+		{
+			"naam": "PvdA",
+			"kandidaten" : {
+				"naam": "Martien Louwers"
+			}
+		},
+		{
+			"naam": "VVD",
+			"kandidaten" : {
+				"naam": "Leendert Combée"
+			}
+		},
+		{
+			"naam": "GroenLinks",
+			"kandidaten" : {
+				"naam": "Cathelijne Bouwkamp"
+			}
+		},
+		{
+			"naam": "CDA",
+			"kandidaten" : {
+				"naam": "Ine van Burgsteden"
+			}
+		},
+		{
+			"naam": "ChristenUnie",
+			"kandidaten" : {
+				"naam": "Daniël Becker"
+			}
+		},
+		{
+			"naam": "Arnhem Centraal",
+			"kandidaten" : {
+				"naam": "Guus van der Laak"
+			}
+		},
+		{
+			"naam": "Partij voor de Dieren",
+			"kandidaten" : {
+				"naam": "Leo de Groot"
+			}
+		},
+		{
+			"naam": "DENK Verenigd Arnhem",
+			"kandidaten" : {
+				"naam": "Kursat Bal"
+			}
+		},
+		{
+			"naam": "Arnhemse Ouderen Partij",
+			"kandidaten" : {
+				"naam": "Nice Wiggers"
+			}
+		},
+		{
+			"naam": "PVV",
+			"kandidaten" : {
+				"naam":  "unknown"
+			}
+		},
+		{
+			"naam": "Arnhem1",
+			"kandidaten" : {
+				"naam":  "Diana Kummeling"
+			}
+		},
+		{
+			"naam": "PSP `92",
+			"kandidaten" : {
+				"naam":  "Ramon Barends"
+			}
+		},
+		{
+			"naam": "NVU",
+			"kandidaten" : {
+				"naam":  "Constant Kusters"
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "random_machine",
+  "version": "1.0.0",
+  "description": "The Random Machine generates... random stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter van der West",
+  "license": "ISC",
+  "dependencies": {
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.2.0",
+    "express": "^4.16.2",
+    "gm": "^1.23.1",
+    "johnny-five": "^0.13.0",
+    "moment": "^2.20.1",
+    "node-pixel": "^0.9.3",
+    "node-webcam": "^0.4.3",
+    "play-sound": "^1.1.2",
+    "socketio": "^1.0.0",
+    "thermalprinter": "^0.3.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitsssssst/random_machine.git"
+  }
+}
